@@ -4,8 +4,8 @@ let descricao = document.querySelector(".d-1-4");
 let aviso = document.querySelector(".d-2");
 let lateral = document.querySelector(".d-1-right");
 let numeros = document.querySelector(".d-1-3");
-let teclaUrna = document.querySelector(".audio--tecla");
-let confirmaUrna = document.querySelector(".audio--confirma");
+const teclaUrna = document.querySelector(".audio--tecla");
+const confirmaUrna = document.querySelector(".audio--confirma");
 
 let etapaAtual = 0;
 let numero = "";
@@ -68,6 +68,7 @@ function atualizaInterface() {
 
 function clicou(n) {
   let elNumero = document.querySelector(".number.pisca");
+  const confirmaUrna = document.querySelector(".audio--confirma");
   teclaUrna.play();
   if (elNumero !== null) {
     elNumero.innerHTML = n;
