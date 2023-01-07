@@ -68,7 +68,7 @@ function atualizaInterface() {
 
 function clicou(n) {
   let elNumero = document.querySelector(".number.pisca");
-  const confirmaUrna = document.querySelector(".audio--confirma");
+  const teclaUrna = document.querySelector(".audio--tecla");
   teclaUrna.play();
   if (elNumero !== null) {
     elNumero.innerHTML = n;
@@ -154,6 +154,7 @@ function confirma() {
         }
       }
       setTimeout(()=>{
+        const confirmaUrna = document.querySelector(".audio--confirma");
         confirmaUrna.play();
       }, 1000)
 
