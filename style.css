@@ -59,7 +59,8 @@ body {
     align-items: center;
     margin: 10px;
     cursor: pointer;
-    box-shadow: 3px 3px 0px #555;
+    box-shadow: 4px -4px 1px #333;
+    border-radius: 4px;
 }
 
 .btn--branco {
