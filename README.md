@@ -16,6 +16,22 @@
  Simulador da urna-eletrônica do TSE, com votos para Vereador e Prefeito. Projeto com várias animações iguais a urna verdadeira e áudios reais.
 </div>
 <br>
+<div id="candidatos">
+<h3>Número dos candidatos para vereador</h3>
+<br/>
+<p>38111 Vereador Gustavo da rachadinha</p>
+<br/>
+<p>38112 Vereador Henrique Coxinha</p>
+
+<br/>
+<br/>
+<h3>Número dos candidatos para prefeito</h3>
+<br/>
+<p>99 Prefeito Gustavo da rachadinha</p>
+<br/>
+<p>98 Prefeito Henrique Coxinha</p>
+
+</div>
 
 <!-- <h1 align="center"> -->
 <h3>
