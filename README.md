@@ -19,7 +19,7 @@
 
 <!-- <h1 align="center"> -->
 <h3>
-<a href="" target="https://gustavofontenele1.github.io/Simulador-de-urna-eletr-nica/_blank">Testar (preview)</a> 
+<a href="https://gustavofontenele1.github.io/Simulador-de-urna-eletr-nica/" target="_blank">Testar (preview)</a> 
 </h3>
 
 <!-- <p align = "center">
